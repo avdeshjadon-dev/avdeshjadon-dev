@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Avdesh Jadon, a Indian Software Developer 👋🏼:
-🛜 currently working on my own [webpage](https://avdeshjadon-dev.github.io/portfolio/contact.html)<br>👨🏼‍🎓 studying computer science at Lovely Professional University<br>👨🏼‍💻 working as a Software developer since 2025 <br>🎬 just started out with my Passion  
+🛜 currently working on my own [webpage](https://avdeshjadon-dev.github.io/MyPortfolio/)<br>👨🏼‍🎓 studying computer science at Lovely Professional University<br>👨🏼‍💻 working as a Software developer since 2025 <br>🎬 just started out with my Passion  
 
 
 # 💻 Tech Stack:
