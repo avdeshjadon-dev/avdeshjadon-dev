@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="Banner.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Avdesh Jadon, a Indian Software Developer 👋🏼:
 🛜 currently working on my own [webpage](https://avdeshjadon-dev.github.io/MyPortfolio/)<br>👨🏼‍🎓 studying computer science at Lovely Professional University<br>👨🏼‍💻 working as a Software developer since 2025 <br>🎬 just started out with my Passion  
